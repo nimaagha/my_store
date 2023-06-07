@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Nima_Store.Infrastructure/1.0.0": {
+        "runtime": {
+          "Nima_Store.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Nima_Store.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

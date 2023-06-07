@@ -1,0 +1,12 @@
+E:\MyProj\CSharp\Nima_Store\Nima_Store.Domain\bin\Debug\net5.0\Nima_Store.Domain.deps.json
+E:\MyProj\CSharp\Nima_Store\Nima_Store.Domain\bin\Debug\net5.0\Nima_Store.Domain.dll
+E:\MyProj\CSharp\Nima_Store\Nima_Store.Domain\bin\Debug\net5.0\Nima_Store.Domain.pdb
+E:\MyProj\CSharp\Nima_Store\Nima_Store.Domain\obj\Debug\net5.0\Nima_Store.Domain.csproj.AssemblyReference.cache
+E:\MyProj\CSharp\Nima_Store\Nima_Store.Domain\obj\Debug\net5.0\Nima_Store.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyProj\CSharp\Nima_Store\Nima_Store.Domain\obj\Debug\net5.0\Nima_Store.Domain.AssemblyInfoInputs.cache
+E:\MyProj\CSharp\Nima_Store\Nima_Store.Domain\obj\Debug\net5.0\Nima_Store.Domain.AssemblyInfo.cs
+E:\MyProj\CSharp\Nima_Store\Nima_Store.Domain\obj\Debug\net5.0\Nima_Store.Domain.csproj.CoreCompileInputs.cache
+E:\MyProj\CSharp\Nima_Store\Nima_Store.Domain\obj\Debug\net5.0\Nima_Store.Domain.dll
+E:\MyProj\CSharp\Nima_Store\Nima_Store.Domain\obj\Debug\net5.0\refint\Nima_Store.Domain.dll
+E:\MyProj\CSharp\Nima_Store\Nima_Store.Domain\obj\Debug\net5.0\Nima_Store.Domain.pdb
+E:\MyProj\CSharp\Nima_Store\Nima_Store.Domain\obj\Debug\net5.0\ref\Nima_Store.Domain.dll

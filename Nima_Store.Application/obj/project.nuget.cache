@@ -1,8 +1,23 @@
 {
   "version": 2,
-  "dgSpecHash": "fud/1VP4NrcoU1sz6lPcI/YKE9qbzN7l2SkBuapjSlQUK5PX5Q0ESyaUuOWkd3jEz4OAWmQpoH+5P297vO1x1g==",
+  "dgSpecHash": "l0Dg0zule3YTNBejWcfQxO5h1Gja7wAsVBmvy87zfeK2YV56t5vv/P+k3qsCEQzK6EdZaWxbGHoHsHAZ4xZXTA==",
   "success": true,
   "projectFilePath": "E:\\MyProj\\CSharp\\Nima_Store\\Nima_Store.Application\\Nima_Store.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Nima\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.0-preview.8.20407.4\\microsoft.entityframeworkcore.5.0.0-preview.8.20407.4.nupkg.sha512",
+    "C:\\Users\\Nima\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.0-preview.8.20407.4\\microsoft.entityframeworkcore.abstractions.5.0.0-preview.8.20407.4.nupkg.sha512",
+    "C:\\Users\\Nima\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.0-preview.8.20407.4\\microsoft.entityframeworkcore.analyzers.5.0.0-preview.8.20407.4.nupkg.sha512",
+    "C:\\Users\\Nima\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0-preview.8.20407.11\\microsoft.extensions.caching.abstractions.5.0.0-preview.8.20407.11.nupkg.sha512",
+    "C:\\Users\\Nima\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0-preview.8.20407.11\\microsoft.extensions.caching.memory.5.0.0-preview.8.20407.11.nupkg.sha512",
+    "C:\\Users\\Nima\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0-preview.8.20407.11\\microsoft.extensions.dependencyinjection.5.0.0-preview.8.20407.11.nupkg.sha512",
+    "C:\\Users\\Nima\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0-preview.8.20407.11\\microsoft.extensions.dependencyinjection.abstractions.5.0.0-preview.8.20407.11.nupkg.sha512",
+    "C:\\Users\\Nima\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0-preview.8.20407.11\\microsoft.extensions.logging.5.0.0-preview.8.20407.11.nupkg.sha512",
+    "C:\\Users\\Nima\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0-preview.8.20407.11\\microsoft.extensions.logging.abstractions.5.0.0-preview.8.20407.11.nupkg.sha512",
+    "C:\\Users\\Nima\\.nuget\\packages\\microsoft.extensions.options\\5.0.0-preview.8.20407.11\\microsoft.extensions.options.5.0.0-preview.8.20407.11.nupkg.sha512",
+    "C:\\Users\\Nima\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0-preview.8.20407.11\\microsoft.extensions.primitives.5.0.0-preview.8.20407.11.nupkg.sha512",
+    "C:\\Users\\Nima\\.nuget\\packages\\system.collections.immutable\\5.0.0-preview.8.20407.11\\system.collections.immutable.5.0.0-preview.8.20407.11.nupkg.sha512",
+    "C:\\Users\\Nima\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0-preview.8.20407.11\\system.componentmodel.annotations.5.0.0-preview.8.20407.11.nupkg.sha512",
+    "C:\\Users\\Nima\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0-preview.8.20407.11\\system.diagnostics.diagnosticsource.5.0.0-preview.8.20407.11.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Nima_Store.Domain/1.0.0": {
+        "runtime": {
+          "Nima_Store.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Nima_Store.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

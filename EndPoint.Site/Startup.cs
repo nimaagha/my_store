@@ -1,3 +1,4 @@
+using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -8,6 +9,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Nima_Store.Persistence.Contexts;
+using Nima_Store.Application.Interfaces.Contexts;
 
 namespace EndPoint.Site
 {
@@ -23,6 +26,9 @@ namespace EndPoint.Site
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddScoped<IDataBaseContext, DataBaseContext>();
+            string contectionString = @"Data Source=DESKTOP-21DCDE9\MSSQLSERVER01; Initial Catalog=Nima_StoreDb; Integrated Security=True;";
+            services.AddEntityFrameworkSqlServer().AddDbContext<DataBaseContext>(option => option.UseSqlServer(contectionString));
             services.AddControllersWithViews();
         }
 

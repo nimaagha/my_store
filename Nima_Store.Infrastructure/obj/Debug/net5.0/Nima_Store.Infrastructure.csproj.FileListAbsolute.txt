@@ -1,0 +1,12 @@
+E:\MyProj\CSharp\Nima_Store\Nima_Store.Infrastructure\bin\Debug\net5.0\Nima_Store.Infrastructure.deps.json
+E:\MyProj\CSharp\Nima_Store\Nima_Store.Infrastructure\bin\Debug\net5.0\Nima_Store.Infrastructure.dll
+E:\MyProj\CSharp\Nima_Store\Nima_Store.Infrastructure\bin\Debug\net5.0\Nima_Store.Infrastructure.pdb
+E:\MyProj\CSharp\Nima_Store\Nima_Store.Infrastructure\obj\Debug\net5.0\Nima_Store.Infrastructure.csproj.AssemblyReference.cache
+E:\MyProj\CSharp\Nima_Store\Nima_Store.Infrastructure\obj\Debug\net5.0\Nima_Store.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyProj\CSharp\Nima_Store\Nima_Store.Infrastructure\obj\Debug\net5.0\Nima_Store.Infrastructure.AssemblyInfoInputs.cache
+E:\MyProj\CSharp\Nima_Store\Nima_Store.Infrastructure\obj\Debug\net5.0\Nima_Store.Infrastructure.AssemblyInfo.cs
+E:\MyProj\CSharp\Nima_Store\Nima_Store.Infrastructure\obj\Debug\net5.0\Nima_Store.Infrastructure.csproj.CoreCompileInputs.cache
+E:\MyProj\CSharp\Nima_Store\Nima_Store.Infrastructure\obj\Debug\net5.0\Nima_Store.Infrastructure.dll
+E:\MyProj\CSharp\Nima_Store\Nima_Store.Infrastructure\obj\Debug\net5.0\refint\Nima_Store.Infrastructure.dll
+E:\MyProj\CSharp\Nima_Store\Nima_Store.Infrastructure\obj\Debug\net5.0\Nima_Store.Infrastructure.pdb
+E:\MyProj\CSharp\Nima_Store\Nima_Store.Infrastructure\obj\Debug\net5.0\ref\Nima_Store.Infrastructure.dll

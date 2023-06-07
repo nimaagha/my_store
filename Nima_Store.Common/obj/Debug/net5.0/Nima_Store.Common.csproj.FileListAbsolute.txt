@@ -1,0 +1,12 @@
+E:\MyProj\CSharp\Nima_Store\Nima_Store.Common\bin\Debug\net5.0\Nima_Store.Common.deps.json
+E:\MyProj\CSharp\Nima_Store\Nima_Store.Common\bin\Debug\net5.0\Nima_Store.Common.dll
+E:\MyProj\CSharp\Nima_Store\Nima_Store.Common\bin\Debug\net5.0\Nima_Store.Common.pdb
+E:\MyProj\CSharp\Nima_Store\Nima_Store.Common\obj\Debug\net5.0\Nima_Store.Common.csproj.AssemblyReference.cache
+E:\MyProj\CSharp\Nima_Store\Nima_Store.Common\obj\Debug\net5.0\Nima_Store.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyProj\CSharp\Nima_Store\Nima_Store.Common\obj\Debug\net5.0\Nima_Store.Common.AssemblyInfoInputs.cache
+E:\MyProj\CSharp\Nima_Store\Nima_Store.Common\obj\Debug\net5.0\Nima_Store.Common.AssemblyInfo.cs
+E:\MyProj\CSharp\Nima_Store\Nima_Store.Common\obj\Debug\net5.0\Nima_Store.Common.csproj.CoreCompileInputs.cache
+E:\MyProj\CSharp\Nima_Store\Nima_Store.Common\obj\Debug\net5.0\Nima_Store.Common.dll
+E:\MyProj\CSharp\Nima_Store\Nima_Store.Common\obj\Debug\net5.0\refint\Nima_Store.Common.dll
+E:\MyProj\CSharp\Nima_Store\Nima_Store.Common\obj\Debug\net5.0\Nima_Store.Common.pdb
+E:\MyProj\CSharp\Nima_Store\Nima_Store.Common\obj\Debug\net5.0\ref\Nima_Store.Common.dll
