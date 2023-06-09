@@ -18,3 +18,5 @@ E:\MyProj\CSharp\Nima_Store\Nima_Store.Persistence\obj\Debug\net5.0\refint\Nima_
 E:\MyProj\CSharp\Nima_Store\Nima_Store.Persistence\obj\Debug\net5.0\Nima_Store.Persistence.pdb
 E:\MyProj\CSharp\Nima_Store\Nima_Store.Persistence\obj\Debug\net5.0\Nima_Store.Persistence.genruntimeconfig.cache
 E:\MyProj\CSharp\Nima_Store\Nima_Store.Persistence\obj\Debug\net5.0\ref\Nima_Store.Persistence.dll
+E:\MyProj\CSharp\Nima_Store\Nima_Store.Persistence\bin\Debug\net5.0\Nima_Store.Common.dll
+E:\MyProj\CSharp\Nima_Store\Nima_Store.Persistence\bin\Debug\net5.0\Nima_Store.Common.pdb

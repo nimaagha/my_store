@@ -54,8 +54,6 @@
           "Microsoft.AspNetCore.Connections.Abstractions": "5.0.0.0",
           "Microsoft.AspNetCore.CookiePolicy": "5.0.0.0",
           "Microsoft.AspNetCore.Cors": "5.0.0.0",
-          "Microsoft.AspNetCore.Cryptography.Internal": "5.0.0.0",
-          "Microsoft.AspNetCore.Cryptography.KeyDerivation": "5.0.0.0",
           "Microsoft.AspNetCore.DataProtection.Abstractions": "5.0.0.0",
           "Microsoft.AspNetCore.DataProtection": "5.0.0.0",
           "Microsoft.AspNetCore.DataProtection.Extensions": "5.0.0.0",
@@ -335,6 +333,31 @@
             "assemblyVersion": "2.8.0.0",
             "fileVersion": "2.8.26.1919"
           }
+        }
+      },
+      "Microsoft.AspNetCore.Cryptography.Internal/6.0.0-preview.7.21378.6": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Cryptography.Internal.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.37806"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Cryptography.Internal.dll": {}
+        }
+      },
+      "Microsoft.AspNetCore.Cryptography.KeyDerivation/6.0.0-preview.7.21378.6": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Cryptography.Internal": "6.0.0-preview.7.21378.6"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.37806"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll": {}
         }
       },
       "Microsoft.AspNetCore.Html.Abstractions/2.2.0": {
@@ -1783,6 +1806,7 @@
       "Nima_Store.Application/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "5.0.0-preview.8.20407.4",
+          "Nima_Store.Common": "1.0.0",
           "Nima_Store.Domain": "1.0.0"
         },
         "runtime": {
@@ -1790,6 +1814,18 @@
         },
         "compile": {
           "Nima_Store.Application.dll": {}
+        }
+      },
+      "Nima_Store.Common/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Cryptography.Internal": "6.0.0-preview.7.21378.6",
+          "Microsoft.AspNetCore.Cryptography.KeyDerivation": "6.0.0-preview.7.21378.6"
+        },
+        "runtime": {
+          "Nima_Store.Common.dll": {}
+        },
+        "compile": {
+          "Nima_Store.Common.dll": {}
         }
       },
       "Nima_Store.Domain/1.0.0": {
@@ -1908,18 +1944,6 @@
       "Microsoft.AspNetCore.Cors/5.0.0.0": {
         "compile": {
           "Microsoft.AspNetCore.Cors.dll": {}
-        },
-        "compileOnly": true
-      },
-      "Microsoft.AspNetCore.Cryptography.Internal/5.0.0.0": {
-        "compile": {
-          "Microsoft.AspNetCore.Cryptography.Internal.dll": {}
-        },
-        "compileOnly": true
-      },
-      "Microsoft.AspNetCore.Cryptography.KeyDerivation/5.0.0.0": {
-        "compile": {
-          "Microsoft.AspNetCore.Cryptography.KeyDerivation.dll": {}
         },
         "compileOnly": true
       },
@@ -3528,6 +3552,20 @@
       "path": "humanizer.core/2.8.26",
       "hashPath": "humanizer.core.2.8.26.nupkg.sha512"
     },
+    "Microsoft.AspNetCore.Cryptography.Internal/6.0.0-preview.7.21378.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Ru5KSgcsvBxLmQhtexPSlFwMGtxCSUZisUGO6kihJqH0F8DobpXVdFkLDYATtINFZ0XoKhWDkvsRgrSK50anbQ==",
+      "path": "microsoft.aspnetcore.cryptography.internal/6.0.0-preview.7.21378.6",
+      "hashPath": "microsoft.aspnetcore.cryptography.internal.6.0.0-preview.7.21378.6.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Cryptography.KeyDerivation/6.0.0-preview.7.21378.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qaq6K+DpLBltQ+PeZon1skJLLw5Z3cNpPOKDCkQ5aP7+lpgLTYg8SxC5qk10OxEFrpGOv8fCiRioXpDexy+DEA==",
+      "path": "microsoft.aspnetcore.cryptography.keyderivation/6.0.0-preview.7.21378.6",
+      "hashPath": "microsoft.aspnetcore.cryptography.keyderivation.6.0.0-preview.7.21378.6.nupkg.sha512"
+    },
     "Microsoft.AspNetCore.Html.Abstractions/2.2.0": {
       "type": "package",
       "serviceable": true,
@@ -4387,6 +4425,11 @@
       "serviceable": false,
       "sha512": ""
     },
+    "Nima_Store.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "Nima_Store.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
@@ -4473,16 +4516,6 @@
       "sha512": ""
     },
     "Microsoft.AspNetCore.Cors/5.0.0.0": {
-      "type": "referenceassembly",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Microsoft.AspNetCore.Cryptography.Internal/5.0.0.0": {
-      "type": "referenceassembly",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Microsoft.AspNetCore.Cryptography.KeyDerivation/5.0.0.0": {
       "type": "referenceassembly",
       "serviceable": false,
       "sha512": ""

@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "NIXC9vyZCVM8Lbzz74kgNNISY0W00drjUP92GaZ5PHfCoK+oik90N6lEDnpsYZ73v8eEPPj9VXkBDXaFd4imSw==",
+  "dgSpecHash": "dYdBH3NBlZ/xcFA14xUIyTyPQVJmX0yqGGLiaUi300dE4N8E9kVhfuPggsixCj3FzreuGv9uPrlPlHulSi1SMQ==",
   "success": true,
   "projectFilePath": "E:\\MyProj\\CSharp\\Nima_Store\\EndPoint.Site\\EndPoint.Site.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nima\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\Nima\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.0-preview.7.21378.6\\microsoft.aspnetcore.cryptography.internal.6.0.0-preview.7.21378.6.nupkg.sha512",
+    "C:\\Users\\Nima\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.0-preview.7.21378.6\\microsoft.aspnetcore.cryptography.keyderivation.6.0.0-preview.7.21378.6.nupkg.sha512",
     "C:\\Users\\Nima\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Nima\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
     "C:\\Users\\Nima\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\5.0.0\\microsoft.aspnetcore.razor.language.5.0.0.nupkg.sha512",

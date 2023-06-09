@@ -4,7 +4,7 @@ namespace Nima_Store.Application.Services.Usres.Queries.GetUsres
 {
     public class ResultGetUserDto
     {
-        public List<GetUsersDto> users { get; set; }
+        public List<GetUsersDto> Users { get; set; }
         public int Rows { get; set; }
     }
 }

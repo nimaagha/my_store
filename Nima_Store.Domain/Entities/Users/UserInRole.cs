@@ -1,6 +1,8 @@
-﻿namespace Nima_Store.Domain.Entities.Users
+﻿using Nima_Store.Domain.Entities.Commons;
+
+namespace Nima_Store.Domain.Entities.Users
 {
-    public class UserInRole
+    public class UserInRole : BaseEntity
     {
         public long Id { get; set; }
         public virtual User User { get; set; }

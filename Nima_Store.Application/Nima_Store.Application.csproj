@@ -13,8 +13,4 @@
     <ProjectReference Include="..\Nima_Store.Domain\Nima_Store.Domain.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Services\Usres\Commands\" />
-  </ItemGroup>
-
 </Project>

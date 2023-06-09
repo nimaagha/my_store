@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "IsSxD2VsWXHy6d6ibJssjD8j6t86GQX7TeaHTxhEFqA3ks7A2VlWNADK1yooFY0FIJo19Sm3ZpSkxu+Ze2V5Qw==",
+  "dgSpecHash": "EQy4/36yx+o6QXy6ptJ9aMYw3+E08TAHM1EOqMGK08huCujAIcGiYWexZ9wpIxd6EGWP8CF4oub6PTrm+fgW+g==",
   "success": true,
   "projectFilePath": "E:\\MyProj\\CSharp\\Nima_Store\\Nima_Store.Persistence\\Nima_Store.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nima\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\Nima\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.0-preview.7.21378.6\\microsoft.aspnetcore.cryptography.internal.6.0.0-preview.7.21378.6.nupkg.sha512",
+    "C:\\Users\\Nima\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.0-preview.7.21378.6\\microsoft.aspnetcore.cryptography.keyderivation.6.0.0-preview.7.21378.6.nupkg.sha512",
     "C:\\Users\\Nima\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Nima\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.0\\microsoft.data.sqlclient.2.0.0.nupkg.sha512",
     "C:\\Users\\Nima\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.0.0\\microsoft.data.sqlclient.sni.runtime.2.0.0.nupkg.sha512",

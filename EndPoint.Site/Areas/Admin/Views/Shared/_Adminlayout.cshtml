@@ -51,6 +51,17 @@
                         <li class="has-sub nav-item">
                             <a href="#"><i class="icon-home"></i><span data-i18n="" class="menu-title">Dashboard</span><span class="tag badge badge-pill badge-danger mt-1">2</span></a>
                         </li>
+                        <li class="has-sub nav-item">
+                            <a href="#"><i class="icon-users"></i><span data-i18n="" class="menu-title">Users</span></a>
+                            <ul class="menu-content">
+                                <li class="active">
+                                    <a href="~/admin/users/index" class="menu-item">Users List</a>
+                                </li>
+                                <li>
+                                    <a href="~/admin/users/Create" class="menu-item">*New User</a>
+                                </li>
+                            </ul>
+                        </li>
 
                     </ul>
                 </div>
@@ -395,6 +406,8 @@
     <!-- END CONVEX JS-->
     <!-- BEGIN PAGE LEVEL JS-->
     <!-- END PAGE LEVEL JS-->
+
+    @RenderSection("Scripts",false)
 </body>
 
 <!-- Mirrored from pixinvent.com/demo/convex-bootstrap-admin-dashboard-template/demo-1/grids.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 20 Sep 2018 14:54:38 GMT -->

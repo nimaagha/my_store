@@ -13,3 +13,5 @@ E:\MyProj\CSharp\Nima_Store\Nima_Store.Application\obj\Debug\net5.0\Nima_Store.A
 E:\MyProj\CSharp\Nima_Store\Nima_Store.Application\obj\Debug\net5.0\refint\Nima_Store.Application.dll
 E:\MyProj\CSharp\Nima_Store\Nima_Store.Application\obj\Debug\net5.0\Nima_Store.Application.pdb
 E:\MyProj\CSharp\Nima_Store\Nima_Store.Application\obj\Debug\net5.0\ref\Nima_Store.Application.dll
+E:\MyProj\CSharp\Nima_Store\Nima_Store.Application\bin\Debug\net5.0\Nima_Store.Common.dll
+E:\MyProj\CSharp\Nima_Store\Nima_Store.Application\bin\Debug\net5.0\Nima_Store.Common.pdb

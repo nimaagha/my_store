@@ -154,3 +154,8 @@ E:\MyProj\CSharp\Nima_Store\EndPoint.Site\bin\Debug\net5.0\Nima_Store.Persistenc
 E:\MyProj\CSharp\Nima_Store\EndPoint.Site\bin\Debug\net5.0\Nima_Store.Application.pdb
 E:\MyProj\CSharp\Nima_Store\EndPoint.Site\bin\Debug\net5.0\Nima_Store.Domain.pdb
 E:\MyProj\CSharp\Nima_Store\EndPoint.Site\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\MyProj\CSharp\Nima_Store\EndPoint.Site\bin\Debug\net5.0\Nima_Store.Common.dll
+E:\MyProj\CSharp\Nima_Store\EndPoint.Site\bin\Debug\net5.0\Nima_Store.Common.pdb
+E:\MyProj\CSharp\Nima_Store\EndPoint.Site\obj\Debug\net5.0\Razor\Areas\Admin\Views\Users\Create.cshtml.g.cs
+E:\MyProj\CSharp\Nima_Store\EndPoint.Site\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\MyProj\CSharp\Nima_Store\EndPoint.Site\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll

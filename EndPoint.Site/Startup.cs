@@ -11,6 +11,8 @@ using System.Linq;
 using System.Threading.Tasks;
 using Nima_Store.Persistence.Contexts;
 using Nima_Store.Application.Interfaces.Contexts;
+using Nima_Store.Application.Services.Usres.Queries.GetUsres;
+using Nima_Store.Application.Services.Users.Queries.GetRoles;
 
 namespace EndPoint.Site
 {
@@ -27,6 +29,9 @@ namespace EndPoint.Site
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddScoped<IDataBaseContext, DataBaseContext>();
+            services.AddScoped<IGetUsersService, GetUsersService>();
+            services.AddScoped<IGetRolesService, GetRolesService>();
+
             string contectionString = @"Data Source=DESKTOP-21DCDE9\MSSQLSERVER01; Initial Catalog=Nima_StoreDb; Integrated Security=True;";
             services.AddEntityFrameworkSqlServer().AddDbContext<DataBaseContext>(option => option.UseSqlServer(contectionString));
             services.AddControllersWithViews();
